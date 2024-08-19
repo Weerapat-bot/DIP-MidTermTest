@@ -1,1 +1,4 @@
-# MR.NEW-DIP-02
+# My Information
+Weerapat Chawaruangdech
+No.10
+Student ID 45988
